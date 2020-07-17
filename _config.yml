@@ -95,16 +95,16 @@ analytics:
 author:
   name             : "Hongjo Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Assistant Professor<br/>Dept. of Civil and Environmental Engineering and Engineering Mechanics<br/>University of Dayton"
+  location         : "Dayton, OH"
+  email            : "hkim01@udayton.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "hkim01@udayton.edu"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://scholar.google.co.kr/citations?user=Xtx-ERQAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
