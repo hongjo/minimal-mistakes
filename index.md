@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 author_profile: true
 ---
 ![](/assets/images/city1.jpg)
