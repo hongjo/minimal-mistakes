@@ -20,12 +20,14 @@ toc_icon: "bookmark"
 *	Period: 2020
 
 
+
 ## Previous Research Project
 **Vision-based construction and safety management: improving earthmoving productivity and disaster preparedness**
 *	Agency: Yonsei University
 *	Principle Investigator: Dr. Hongjo Kim
 *	Award: $33,610 
 *	Period: 2018-2019
+
 
 
 ## Previous Research Experience
