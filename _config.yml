@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Smart Infrastructure Technology Laboratory"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hongjo Kim"
+name                     : "Dr. Hongjo Kim"
 description              : "Hongjo's website."
 url                      : "https://hongjo.github.io/hongjo_hp/"
 baseurl                  :
