@@ -30,7 +30,7 @@ toc_icon: "bookmark"
 
 ## Previous Research Experience
 * 2018 ~ 2019	Research Associate, Texas A&M University 
-	* Conducting research related to “Resilient Infrastructure Systems” and “Smart Cities & Sustainable Communities” (PI: Dr. Youngjib Ham)
+	* “Resilient Infrastructure Systems” and “Smart Cities & Sustainable Communities” (PI: Dr. Youngjib Ham)
 
 * 2018 ~ 2019	Research Associate, Yonsei University 
    * “Deep learning-based visualization and monitoring of occupational hazards in construction sites for developing a proactive hazard warning interface in augmented reality” National Research Foundation of Korea (PI: Dr. Hyoungkwan Kim)
