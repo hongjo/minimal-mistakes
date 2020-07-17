@@ -6,6 +6,8 @@ toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
+## Hongjo Kim, Ph.D.
+
 ## Professional Employment
 * 2019.8 ~ Present  Assistant Professor, Department of Civil and Environmental Engineering and Engineering Mechanics, University of Dayton, OH, United States 
 * 2019.5 ~ 2019.7	  Research Professor, School of Civil and Environmental Engineering, Yonsei University, Seoul, South Korea
