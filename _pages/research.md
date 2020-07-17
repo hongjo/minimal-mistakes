@@ -1,5 +1,5 @@
 ---
-permalink: /reseasrch/
+permalink: /research/
 title: "Research"
 last_modified_at: 2020-07-16
 toc: true
