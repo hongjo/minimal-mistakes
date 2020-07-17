@@ -7,7 +7,7 @@ toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
 
-![](/assets/images/arizona_hj_reszied.jpg){: .align-center .width-half}
+![](/assets/images/arizona_hj_reszied1.jpg){: .align-center}
 ## Hongjo Kim, Ph.D.
 
 ## Professional Employment
