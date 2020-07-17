@@ -7,25 +7,25 @@ toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
 ## Current Research Project
-* 2020	Development of technology for securing safety of temporary structures
-•	Agency: The Korea Agency for Infrastructure Technology and Advancement
-•	Principle Investigator: Dr. Hongjo Kim
-•	Award: $552,917 (663,500,000 Korean Won) 
-•	Period: 2020-2025
+### 2020	Development of technology for securing safety of temporary structures
+* Agency: The Korea Agency for Infrastructure Technology and Advancement
+* Principle Investigator: Dr. Hongjo Kim
+* Award: $552,917 (663,500,000 Korean Won) 
+* Period: 2020-2025
 
-* 2020	Vision-based Pavement Condition Assessment for Automated Maintenance and Repair Decision-Making
-•	Agency: University of Dayton SEED Grant
-•	Principle Investigator: Dr. Hongjo Kim
-•	Award: $6,500 
-•	Period: 2020
+### 2020	Vision-based Pavement Condition Assessment for Automated Maintenance and Repair Decision-Making
+*	Agency: University of Dayton SEED Grant
+*	Principle Investigator: Dr. Hongjo Kim
+*	Award: $6,500 
+*	Period: 2020
 
 
 ## Previous Research Project
-* 2018	Vision-based construction and safety management: improving earthmoving productivity and disaster preparedness 
-•	Agency: Yonsei University
-•	Principle Investigator: Dr. Hongjo Kim
-•	Award: $33,610 
-•	Period: 2018-2019
+### 2018	Vision-based construction and safety management: improving earthmoving productivity and disaster preparedness 
+*	Agency: Yonsei University
+*	Principle Investigator: Dr. Hongjo Kim
+*	Award: $33,610 
+*	Period: 2018-2019
 
 
 ## Previous Research Experience
