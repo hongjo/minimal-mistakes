@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "hkim01@udayton.edu"
+      # url: "hkim01@udayton.edu"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.co.kr/citations?user=Xtx-ERQAAAAJ&hl=en"
