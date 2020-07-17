@@ -1,0 +1,48 @@
+---
+permalink: /reseasrch/
+title: "Research"
+last_modified_at: 2020-07-16
+toc: true
+toc_label: " Table of Contents"
+toc_icon: "bookmark"
+---
+## Current Research Project
+* 2020	Development of technology for securing safety of temporary structures
+•	Agency: The Korea Agency for Infrastructure Technology and Advancement
+•	Principle Investigator: Dr. Hongjo Kim
+•	Award: $552,917 (663,500,000 Korean Won) 
+•	Period: 2020-2025
+
+* 2020	Vision-based Pavement Condition Assessment for Automated Maintenance and Repair Decision-Making
+•	Agency: University of Dayton SEED Grant
+•	Principle Investigator: Dr. Hongjo Kim
+•	Award: $6,500 
+•	Period: 2020
+
+
+## Previous Research Project
+* 2018	Vision-based construction and safety management: improving earthmoving productivity and disaster preparedness 
+•	Agency: Yonsei University
+•	Principle Investigator: Dr. Hongjo Kim
+•	Award: $33,610 
+•	Period: 2018-2019
+
+
+## Previous Research Experience
+* 2018 ~ 2019	Research Associate, Texas A&M University 
+	* Conducting research related to “Resilient Infrastructure Systems” and “Smart Cities & Sustainable Communities” (PI: Dr. Youngjib Ham)
+* 2018 ~ 2019	Research Associate, Yonsei University 
+	* Project participation: “Deep learning-based visualization and monitoring of occupational hazards in construction sites for developing a proactive hazard warning interface in augmented reality” National Research Foundation of Korea (PI: Dr. Hyoungkwan Kim)
+* 2014 ~ 2018	Graduate Research Assistant, Yonsei University 
+	* Project participation: 
+  * “Intelligent Interactive InfoEcosystem for Automating and Optimizing On-Site Safety/Construction” National Research Foundation of Korea (PI: Dr. Hyoungkwan Kim),
+	* “Proactive Adaptation Scenarios for Infrastructures under Climate Change using Probabilistic Life Cycle Cost Analysis” National Research Foundation of Korea (PI: Dr. Hyoungkwan Kim)
+* 2013 ~ 2014	Graduate Research Assistant, Yonsei University
+	* Project participation:
+	* “Engineering Project Financing Textbook development: Practical course 1” Korea Engineering and Consulting Association (PI: Dr. Hyoungkwan Kim),
+	* “Engineering Project Financing Textbook development: Practical course 2” Korea Engineering and Consulting Association (PI: Dr. Hyoungkwan Kim),
+	* “Proactive Adaptation Scenarios for Infrastructures under Climate Change using Probabilistic Life Cycle Cost Analysis” National Research Foundation of Korea (PI: Dr. Hyoungkwan Kim) 
+* 2010 ~ 2012	Undergraduate Research Assistant, Yonsei University
+	* Project participation: 
+	* “Eco-Simulator for Planning Roads with Minimized Environmental Costs” (National Research Foundation of Korea, PI: Dr. Hyoungkwan Kim)
+
