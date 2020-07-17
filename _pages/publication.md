@@ -1,16 +1,11 @@
 ---
-permalink: /research/
-title: "Research"
+permalink: /publication/
+title: "Publication"
 last_modified_at: 2020-07-16
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
-## Research Interest
-* Artificial Intelligence-based Data-Driven Construction and Infrastructure Management: The exploration and dissemination of new knowledge in construction and infrastructure management for the improvement of productivity and safety from the perspective of information management using computer vision, simulation, and artificial intelligence.
-
-## Publications
-
 ## Jounral Papers
 1.	Hoyoung Jeong, Hongjo Kim, and Hyoungkwan Kim (2020). "Optimization procedure for climate change adaptation investment planning: Case of flood disaster prevention in Seoul" Journal of Water Resources Planning and Management, 146(2), 04019077.
 2.	Hongjo Kim and Youngjib Ham (2019). "Participatory sensing-based geospatial localization of distant objects for disaster preparedness in urban built environments." Automation in Construction, 107, 102960.
