@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hongjo Kim"
+  name             : "SITL"
   avatar           : "/assets/images/UD_logo.jpg"
-  bio              : "SITL<br/>Dept. of Civil and Environmental Engineering and Engineering Mechanics<br/>University of Dayton"
+  bio              : "University of Dayton"
   location         : "Dayton, OH"
   email            : "hkim01@udayton.edu"
   links:
