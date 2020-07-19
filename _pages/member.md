@@ -32,5 +32,5 @@ toc_icon: "bookmark"
 
 **Dr. Vijayan K. Asari**
  * Professor; Ohio Research Scholars Endowed Chair in Wide Area Surveillance
- * Department of Computer Science, University of Dayton
+ * Department of Electrical and Computer Engineering, University of Dayton
  
