@@ -26,7 +26,7 @@ toc_icon: "bookmark"
 17. Hongjo Kim, Changyoon Kim, Hoyoung Jeong, Sooji Ha, Kinam Kim, and Hyoungkwan Kim (2015). "4D CAD Drawings based on Marker-based Augmented Reality" Korean Journal of Construction Engineering and Management, 16(4), 30–40.
 
 ## Conference Papers (International)
-1.	Hongjo Kim, Youngjib Ham, and Hyoungkwan Kim (2019). "Localizing Local Vulnerabilities in Urban Areas using Crowdsourced Visual Data from Participatory Sensing" ASCE International Conference on Computing in Civil Engineering 2019, 522―529.
+1.	Hongjo Kim, Youngjib Ham, and Hyoungkwan Kim (2019). "Localizing Local Vulnerabilities in Urban Areas using Crowdsourced Visual Data from Participatory Sensing" ASCE International Conference on Computing in Civil Engineering 2019, 522―529 **(Recognized as a best paper and invited to a special issue in ASCE Journal of Construction Engineering and Management)**.
 2.	Jaeyoon Kim, Hongjo Kim, and Youngjib Ham (2019). "Mapping Local Vulnerabilities into a 3D City Model through Social Sensing and the CAVE System toward Digital Twin City" ASCE International Conference on Computing in Civil Engineering 2019, 451―458.
 3.	Hongjo Kim, Youngjib Ham, and Hyoungkwan Kim (2019). "Deep learning-based Context Documentation for Earthmoving Productivity Simulation" 55th Annual Associated Schools of Construction International Conference, 563―570.
 4.	Seongdeok Bang, Somin Park, Hongjo Kim, Yeosan Yoon, and Hyoungkwan Kim (2018). "A Deep Residual Network with Transfer Learning for Pixel-level Road Crack Detection" The 35th International Symposium on Automation and Robotics in Construction (ISARC 2018), Berlin, Germany, 753―756.
