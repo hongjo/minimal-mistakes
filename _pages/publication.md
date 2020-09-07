@@ -6,7 +6,7 @@ toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
-## Jounral Papers
+## Journal Papers
 1.	Hongjo Kim and Youngjib Ham (2020). “Increasing Reliability of Participatory Sensing for Utility Pole Condition Assessment using Fuzzy Inference” Journal of Construction Engineering and Management (Accepted; Invited Paper)
 2.	Hoyoung Jeong, Hongjo Kim, and Hyoungkwan Kim (2020). "Optimization procedure for climate change adaptation investment planning: Case of flood disaster prevention in Seoul" Journal of Water Resources Planning and Management, 146(2), 04019077.
 3.	Hongjo Kim and Youngjib Ham (2019). "Participatory sensing-based geospatial localization of distant objects for disaster preparedness in urban built environments." Automation in Construction, 107, 102960.
