@@ -7,7 +7,7 @@ toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
 ## Current Research Project
-**Development of technology for securing safety of temporary structures**
+**Vision-based Safety Securing Technology for Temporary Structure Installation and Dismantlement **
 * Agency: The Korea Agency for Infrastructure Technology and Advancement
 * Principle Investigator: Dr. Hongjo Kim
 * Award: $552,917 (663,500,000 Korean Won) 
