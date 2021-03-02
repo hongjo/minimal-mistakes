@@ -11,7 +11,8 @@ toc_icon: "bookmark"
 ## Hongjo Kim, Ph.D.
 
 ## Professional Employment
-* 2019.8 ~ Present  Assistant Professor, Department of Civil and Environmental Engineering and Engineering Mechanics, University of Dayton, OH, United States 
+* 2021.3 ~ Present  Assistant Professor, Department of Civil and Environmental Engineering, Yonsei University, South Korea 
+* 2019.8 ~ 2020.12  Assistant Professor, Department of Civil and Environmental Engineering and Engineering Mechanics, University of Dayton, OH, United States 
 * 2019.5 ~ 2019.7	  Research Professor, School of Civil and Environmental Engineering, Yonsei University, Seoul, South Korea
 * 2018.3 ~ 2019.4	  Research Associate, Department of Construction Science, Texas A&M University, College Station, Texas, United States
 * 2018.3 ~ 2019.3	  Research Associate, School of Civil and Environmental Engineering, Yonsei University, Seoul, South Korea
@@ -35,7 +36,6 @@ toc_icon: "bookmark"
 * Reviewer, Journal of Computing in Civil Engineering
 * Reviewer, Computer-aided Civil and Infrastructure Engineering
 * Reviewer, Canadian Journal of Civil Engineering
-* Reviewer, IEEE Access
 * Collaborator, the Miami Valley Repair and Rebuild Task Force, Ohio, USA
 
 ## Professional and Honorary Society Memberships
