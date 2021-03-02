@@ -25,6 +25,11 @@ toc_icon: "bookmark"
  * Topic: Vision-based construction safety analysis
  * Co-advisor: Dr. Tam Nguyen
 
+**Yeji Hong**
+ * Researcher 
+ * Department of Civil and Environmental Engineering, Yonsei University
+ * Topic: Generalization of deep learning models for construction site monitoring
+
 ## Collaborators
 **Dr. Tam Nguyen**
  * Assistant Professor
