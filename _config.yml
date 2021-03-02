@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dr. Hongjo Kim"
 description              : "Hongjo's website."
-url                      : "https://hongjo.github.io"rl                  :
+url                      : "https://hongjo.github.io"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "SIL"
   avatar           : "/assets/images/yonsei.png"
-  bio              : "Yonsei University"
+  bio              : "Department of Civil & Environmental Engineering, Yonsei University"
   location         : "Seoul, Korea"
   email            : "hongjo@yonsei.ac.kr"
   links:
