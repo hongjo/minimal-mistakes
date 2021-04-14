@@ -10,7 +10,7 @@ toc_icon: "bookmark"
 ![](/assets/images/ri.jpg)
 
 ## Current Research Project
-**Vision-based Safety Securing Technology for Temporary Structure Installation and Dismantlement **
+**Vision-based Safety Securing Technology for Temporary Structure Installation and Dismantlement**
 * Agency: The Korea Agency for Infrastructure Technology and Advancement
 * Principle Investigator: Dr. Hongjo Kim
 * Period: 2020-2025
