@@ -8,45 +8,55 @@ toc_icon: "bookmark"
 ---
 ## Journal Papers
 ![](/assets/images/reliability.jpg)
-1.	Hongjo Kim and Youngjib Ham (2020). “Increasing Reliability of Participatory Sensing for Utility Pole Condition Assessment using Fuzzy Inference” Journal of Construction Engineering and Management, 147(1), 04020154.
-2.	Hoyoung Jeong, Hongjo Kim, and Hyoungkwan Kim (2020). "Optimization procedure for climate change adaptation investment planning: Case of flood disaster prevention in Seoul" Journal of Water Resources Planning and Management, 146(2), 04019077.
+Hongjo Kim and Youngjib Ham (2020). “Increasing Reliability of Participatory Sensing for Utility Pole Condition Assessment using Fuzzy Inference” Journal of Construction Engineering and Management, 147(1), 04020154.
+
+Hoyoung Jeong, Hongjo Kim, and Hyoungkwan Kim (2020). "Optimization procedure for climate change adaptation investment planning: Case of flood disaster prevention in Seoul" Journal of Water Resources Planning and Management, 146(2), 04019077.
 
 ![](/assets/images/localization.jpg)
 
-3.	Hongjo Kim and Youngjib Ham (2019). "Participatory sensing-based geospatial localization of distant objects for disaster preparedness in urban built environments." Automation in Construction, 107, 102960.
-4.	Seongdeok Bang, Somin Park, Hongjo Kim, and Hyoungkwan Kim (2019). "Encoder-Decoder Network for Pixel-Level Crack Detection in Black-Box Images" Computer-Aided Civil and Infrastructure Engineering, 34, 713–727.
+Hongjo Kim and Youngjib Ham (2019). "Participatory sensing-based geospatial localization of distant objects for disaster preparedness in urban built environments." Automation in Construction, 107, 102960.
+
+Seongdeok Bang, Somin Park, Hongjo Kim, and Hyoungkwan Kim (2019). "Encoder-Decoder Network for Pixel-Level Crack Detection in Black-Box Images" Computer-Aided Civil and Infrastructure Engineering, 34, 713–727.
 
 ![](/assets/images/nonintru.jpg)
 
-5.	Hongjo Kim, Youngjib Ham, Wontae Kim, Somin Park, and Hyoungkwan Kim (2018). "Vision-based Nonintrusive Context Documentation for Earthmoving Productivity Simulation" Automation in Construction, 102, 135–147.
-6.	Somin Park, Seongdeok Bang, Hongjo Kim, and Hyoungkwan Kim (2018). "Patch-based Crack Detection in Black Box Images using Convolutional Neural Networks" Journal of Computing in Civil Engineering, 33(3), 04019017.
+Hongjo Kim, Youngjib Ham, Wontae Kim, Somin Park, and Hyoungkwan Kim (2018). "Vision-based Nonintrusive Context Documentation for Earthmoving Productivity Simulation" Automation in Construction, 102, 135–147.
+
+Somin Park, Seongdeok Bang, Hongjo Kim, and Hyoungkwan Kim (2018). "Patch-based Crack Detection in Black Box Images using Convolutional Neural Networks" Journal of Computing in Civil Engineering, 33(3), 04019017.
 
 ![](/assets/images/prod.jpg)
 
-7.	Hongjo Kim, Seongdeok Bang, Hoyoung Jeong, Youngjib Ham, and Hyoungkwan Kim (2018). "Analyzing Context and Productivity of Tunnel Earthmoving Processes using Imaging and Simulation" Automation in Construction, 92, 188–198.
-8.	Inhae Ha, Hongjo Kim, Somin Park, and Hyoungkwan Kim (2018). "Image Retrieval using BIM and Features from Pretrained VGG Network for Indoor Localization" Building and Environment, 140, 23–31.
+Hongjo Kim, Seongdeok Bang, Hoyoung Jeong, Youngjib Ham, and Hyoungkwan Kim (2018). "Analyzing Context and Productivity of Tunnel Earthmoving Processes using Imaging and Simulation" Automation in Construction, 92, 188–198.
+
+Inhae Ha, Hongjo Kim, Somin Park, and Hyoungkwan Kim (2018). "Image Retrieval using BIM and Features from Pretrained VGG Network for Indoor Localization" Building and Environment, 140, 23–31.
 
 ![](/assets/images/detect.JPG)
 
-9.	Hongjo Kim, Hyoungkwan Kim, Yong Won Hong, and Hyeran Byun (2018). "Detecting Construction Equipment Using a Region-based Fully Convolutional Network and Transfer Learning" Journal of Computing in Civil Engineering, 32(2), 04017082.
+Hongjo Kim, Hyoungkwan Kim, Yong Won Hong, and Hyeran Byun (2018). "Detecting Construction Equipment Using a Region-based Fully Convolutional Network and Transfer Learning" Journal of Computing in Civil Engineering, 32(2), 04017082.
 
 ![](/assets/images/3dsynt.JPG)
 
-10.	Hongjo Kim and Hyoungkwan Kim (2018). "3D Reconstruction of Construction Entities for Training Object Detectors" Automation in Construction, 88, 23–30.
-11.	Seongdeok Bang, Hongjo Kim, and Hyoungkwan Kim (2017). "UAV-based Automatic Generation of High-Resolution Panorama at a Construction Site with a Focus on Preprocessing for Image Stitching" Automation in Construction. 84, 70–80.
-12.	Kinam Kim, Hongjo Kim, and Hyoungkwan Kim (2017). "Image-based Construction Hazard Avoidance System using Augmented Reality in Wearable Device" Automation in Construction, 83, 390–403.
-13.	Sooji Ha, Hongjo Kim, Kyeongseok Kim, Hyounkyu Lee, and Hyoungkwan Kim (2017). "Algorithm for Economic Assessment of Infrastructure Adaptation to Climate Change" Natural Hazards Review, 16(4), 04017007.
-14.	Hoyoung Jeong, Hongjo Kim, Kyeongseok Kim, and Hyoungkwan Kim (2017). "Prediction of Flexible Pavement Deterioration in Relation to Climate Change Using Fuzzy Logic" Journal of Infrastructure Systems, 23(4), 04017008.
+Hongjo Kim and Hyoungkwan Kim (2018). "3D Reconstruction of Construction Entities for Training Object Detectors" Automation in Construction, 88, 23–30.
+
+Seongdeok Bang, Hongjo Kim, and Hyoungkwan Kim (2017). "UAV-based Automatic Generation of High-Resolution Panorama at a Construction Site with a Focus on Preprocessing for Image Stitching" Automation in Construction. 84, 70–80.
+
+Kinam Kim, Hongjo Kim, and Hyoungkwan Kim (2017). "Image-based Construction Hazard Avoidance System using Augmented Reality in Wearable Device" Automation in Construction, 83, 390–403.
+
+Sooji Ha, Hongjo Kim, Kyeongseok Kim, Hyounkyu Lee, and Hyoungkwan Kim (2017). "Algorithm for Economic Assessment of Infrastructure Adaptation to Climate Change" Natural Hazards Review, 16(4), 04017007.
+
+Hoyoung Jeong, Hongjo Kim, Kyeongseok Kim, and Hyoungkwan Kim (2017). "Prediction of Flexible Pavement Deterioration in Relation to Climate Change Using Fuzzy Logic" Journal of Infrastructure Systems, 23(4), 04017008.
 
 ![](/assets/images/sceneparsing.JPG)
 
-15.	Hongjo Kim, Kinam Kim, and Hyoungkwan Kim (2016). "Data-driven Scene Parsing Method for Recognizing Construction Site Objects in the Whole Image" Automation in Construction, 71(2), 271–282.
+Hongjo Kim, Kinam Kim, and Hyoungkwan Kim (2016). "Data-driven Scene Parsing Method for Recognizing Construction Site Objects in the Whole Image" Automation in Construction, 71(2), 271–282.
 
 ![](/assets/images/onsite.jpg)
 
-16.	Hongjo Kim, Kinam Kim, and Hyoungkwan Kim (2016). "Vision-Based Object-Centric Safety Assessment Using Fuzzy Inference: Monitoring Struck-By Accidents with Moving Objects" Journal of Computing in Civil Engineering, 30(4), 04015075.
-17.	Byungil Kim, Hongjo Kim, and Hyoungkwan Kim (2016). "A Framework for Pricing the Loss of Regulating Ecosystem Services Caused by Road Construction" KSCE Journal of Civil Engineering, 20(7), 2624–2631.
-18.	Hongjo Kim, Changyoon Kim, Hoyoung Jeong, Sooji Ha, Kinam Kim, and Hyoungkwan Kim (2015). "4D CAD Drawings based on Marker-based Augmented Reality" Korean Journal of Construction Engineering and Management, 16(4), 30–40.
+Hongjo Kim, Kinam Kim, and Hyoungkwan Kim (2016). "Vision-Based Object-Centric Safety Assessment Using Fuzzy Inference: Monitoring Struck-By Accidents with Moving Objects" Journal of Computing in Civil Engineering, 30(4), 04015075.
+
+Byungil Kim, Hongjo Kim, and Hyoungkwan Kim (2016). "A Framework for Pricing the Loss of Regulating Ecosystem Services Caused by Road Construction" KSCE Journal of Civil Engineering, 20(7), 2624–2631.
+
+Hongjo Kim, Changyoon Kim, Hoyoung Jeong, Sooji Ha, Kinam Kim, and Hyoungkwan Kim (2015). "4D CAD Drawings based on Marker-based Augmented Reality" Korean Journal of Construction Engineering and Management, 16(4), 30–40.
 
 
 ## Conference Papers (International)
