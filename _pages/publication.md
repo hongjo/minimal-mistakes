@@ -7,6 +7,8 @@ toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
 ## Journal Papers
+Yeji Hong, Somin Park, Hongjo Kim, and Hyoungkwan Kim (2021). "Synthetic data generation using building information models" Automation in Construction, 130, 1―16.
+
 ![](/assets/images/reliability.jpg)
 Hongjo Kim and Youngjib Ham (2020). “Increasing Reliability of Participatory Sensing for Utility Pole Condition Assessment using Fuzzy Inference” Journal of Construction Engineering and Management, 147(1), 04020154.
 
