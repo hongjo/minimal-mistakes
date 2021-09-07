@@ -70,6 +70,6 @@ toc_icon: "bookmark"
  * Undergraduate
  * Department of Civil and Environmental Engineering, Yonsei University
 
-**Seoungjin, Jeong**
+**Seungjin, Jeong**
  * Undergraduate
  * Department of Civil and Environmental Engineering, Yonsei University
