@@ -16,18 +16,22 @@ toc_icon: "bookmark"
 **Jabbar Shah, Syed**
  * Ph.D. Student
  * Department of Civil and Environmental Engineering, Yonsei University
- * Topic: TBD
+ * Topic: Vision-based construction safety management
  
 **Jeongho, Hyeon**
  * Undergraduate
  * Department of Civil and Environmental Engineering, Yonsei University
  * Topic: TBD
 
-**Hojoon, Jang**
+**Taegeon, Kim**
  * Undergraduate
  * Department of Civil and Environmental Engineering, Yonsei University
 
-**Taegeon, Kim**
+**Jongseok, Hong**
+ * Undergraduate
+ * Department of Civil and Environmental Engineering, Yonsei University
+
+**Hojun, Jang**
  * Undergraduate
  * Department of Civil and Environmental Engineering, Yonsei University
 
@@ -71,5 +75,9 @@ toc_icon: "bookmark"
  * Department of Civil and Environmental Engineering, Yonsei University
 
 **Seungjin, Jeong**
+ * Undergraduate
+ * Department of Civil and Environmental Engineering, Yonsei University
+
+**Jaehyun, Lim**
  * Undergraduate
  * Department of Civil and Environmental Engineering, Yonsei University
