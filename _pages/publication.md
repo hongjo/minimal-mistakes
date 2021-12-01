@@ -10,7 +10,7 @@ toc_icon: "bookmark"
 Yeji Hong, Somin Park, Hongjo Kim, and Hyoungkwan Kim (2021). "Synthetic data generation using building information models" Automation in Construction, 130, 1―16.
 
 ![](/assets/images/reliability.jpg)
-Hongjo Kim and Youngjib Ham (2020). “Increasing Reliability of Participatory Sensing for Utility Pole Condition Assessment using Fuzzy Inference” Journal of Construction Engineering and Management, 147(1), 04020154.
+Hongjo Kim and Youngjib Ham (2021). “Increasing Reliability of Participatory Sensing for Utility Pole Condition Assessment using Fuzzy Inference” Journal of Construction Engineering and Management, 147(1), 04020154.
 
 Hoyoung Jeong, Hongjo Kim, and Hyoungkwan Kim (2020). "Optimization procedure for climate change adaptation investment planning: Case of flood disaster prevention in Seoul" Journal of Water Resources Planning and Management, 146(2), 04019077.
 
@@ -22,9 +22,9 @@ Seongdeok Bang, Somin Park, Hongjo Kim, and Hyoungkwan Kim (2019). "Encoder-Deco
 
 ![](/assets/images/nonintru.jpg)
 
-Hongjo Kim, Youngjib Ham, Wontae Kim, Somin Park, and Hyoungkwan Kim (2018). "Vision-based Nonintrusive Context Documentation for Earthmoving Productivity Simulation" Automation in Construction, 102, 135–147.
+Hongjo Kim, Youngjib Ham, Wontae Kim, Somin Park, and Hyoungkwan Kim (2019). "Vision-based Nonintrusive Context Documentation for Earthmoving Productivity Simulation" Automation in Construction, 102, 135–147.
 
-Somin Park, Seongdeok Bang, Hongjo Kim, and Hyoungkwan Kim (2018). "Patch-based Crack Detection in Black Box Images using Convolutional Neural Networks" Journal of Computing in Civil Engineering, 33(3), 04019017.
+Somin Park, Seongdeok Bang, Hongjo Kim, and Hyoungkwan Kim (2019). "Patch-based Crack Detection in Black Box Images using Convolutional Neural Networks" Journal of Computing in Civil Engineering, 33(3), 04019017.
 
 ![](/assets/images/prod.jpg)
 
@@ -38,7 +38,7 @@ Hongjo Kim, Hyoungkwan Kim, Yong Won Hong, and Hyeran Byun (2018). "Detecting Co
 
 ![](/assets/images/3dsynt.JPG)
 
-Hongjo Kim and Hyoungkwan Kim (2018). "3D Reconstruction of Construction Entities for Training Object Detectors" Automation in Construction, 88, 23–30.
+Hongjo Kim and Hyoungkwan Kim (2018). "3D reconstruction of a concrete mixer truck for training object detectors" Automation in Construction, 88, 23–30.
 
 Seongdeok Bang, Hongjo Kim, and Hyoungkwan Kim (2017). "UAV-based Automatic Generation of High-Resolution Panorama at a Construction Site with a Focus on Preprocessing for Image Stitching" Automation in Construction. 84, 70–80.
 
