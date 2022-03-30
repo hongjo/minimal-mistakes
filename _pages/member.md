@@ -15,10 +15,6 @@ toc_icon: "bookmark"
  * Ph.D. Student
  * Department of Electrical and Computer Engineering, University of Dayton
  * Co-advisor: Dr. Vijayan K. Asari, Dr. Tam Nguyen
-
-**Jabbar Shah Syed**
- * Ph.D. Student
- * Department of Civil and Environmental Engineering, Yonsei University
  
 **Jeongho Hyeon**
  * Undergraduate
