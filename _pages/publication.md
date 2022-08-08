@@ -64,7 +64,7 @@ Hongjo Kim, Changyoon Kim, Hoyoung Jeong, Sooji Ha, Kinam Kim, and Hyoungkwan Ki
 
 
 ## Conference Papers (International)
-1.  Wei-Chih Chern, Vijayan Asari, Tam Nguyen, and Hongjo Kim (2022). "Weakly supervised pseudo label generation for construction vehicle segmentation" 39𝑡ℎ International Symposium on Automation and Robotics in Construction (ISARC 2022) July 13th – 15th, Bogotá, Colombia, 41-46.
+1.  Wei-Chih Chern, Vijayan Asari, Tam Nguyen, and Hongjo Kim (2022). "Weakly supervised pseudo label generation for construction vehicle segmentation" 39𝑡ℎ International Symposium on Automation and Robotics in Construction (ISARC 2022) July 13th – 15th, Bogotá, Colombia, 41-46. **(Selected for Plenary Talks)
 2.  Wei-Chih Chern, Hongjo Kim, Vijayan Asari, and Tam Nguyen (2022). "Compound Loss Function of semantic segmentation models for imbalanced construction data" The 9th International Conference on Construction Engineering and Project Management (ICCEPM) Jun. 20-23, 2022, Las Vegas, NV, USA, 808-813.
 3.	Yeji Hong, Wei Chih Chern, Tam Nguyen and Hongjo Kim (2021). "Generalization of Construction Object Segmentation Models using Self-Supervised Learning and Copy-Paste Data Augmentation" The 38th International Symposium on Automation and Robotics in Construction (ISARC 2021), Dubai, UAE, 843-848.
 4.	Hongjo Kim, Youngjib Ham (2020). "Evaluating Deterioration Levels of Utility Poles Using Participatory Sensing and Fuzzy Inference" Construction Research Congress 2020: Computer Applications, 821-827
