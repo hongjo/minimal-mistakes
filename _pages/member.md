@@ -24,19 +24,7 @@ toc_icon: "bookmark"
  * Undergraduate
  * Department of Civil and Environmental Engineering, Yonsei University
 
-**Hojun Jang**
- * Undergraduate
- * Department of Civil and Environmental Engineering, Yonsei University
-
 **Seokhwan Kim**
- * Undergraduate
- * Department of Civil and Environmental Engineering, Yonsei University
-
-**Jeongin Lee**
- * Undergraduate
- * Department of Civil and Environmental Engineering, Yonsei University
-
-**Sehyeon Oh**
  * Undergraduate
  * Department of Civil and Environmental Engineering, Yonsei University
 
