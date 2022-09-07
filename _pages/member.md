@@ -19,7 +19,11 @@ toc_icon: "bookmark"
 **Jabbar Shah Syed**
  * Ph.D Course
  * Department of Civil and Environmental Engineering, Yonsei University
- 
+
+**Sungjae Park**
+ * Master Course
+ * Department of Civil and Environmental Engineering, Yonsei University
+
 **Jeongho Hyeon**
  * Integrated Ph.D Course
  * Department of Civil and Environmental Engineering, Yonsei University
