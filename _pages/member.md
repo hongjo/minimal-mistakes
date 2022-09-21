@@ -40,6 +40,11 @@ toc_icon: "bookmark"
  * Undergraduate
  * Department of Civil and Environmental Engineering, Yonsei University
 
+**Jin Young Kim**
+ * Master Course
+ * Department of Civil, Environmental and Disaster Prevention Engineering, Yonsei University
+
+
 
 ## Collaborators
 **Dr. Tam Nguyen**
