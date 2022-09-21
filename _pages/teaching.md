@@ -6,10 +6,14 @@ toc: true
 toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
-## CEE 421 Construction Engineering
-* University of Dayton
-* Fall 2019, Spring 2020
+### Yonsei University (2021-Present)
+## CEE3605 ARTIFICIAL INTELLIGENCE AND CIVIL AND ENVIRONMENTAL ENGINEERING
+## CEE5504 ARTIFICIAL INTELLIGENCE AND WATER INFORMATICS
+## CEE5911 DATA SCIENCE FOR SMART CITY INFRASTRUCTURES
+## ENG1108 ENGINEERING INFORMATION PROCESSING
+## CEE1102 MEGA-STRUCTURES PLANNING
 
+
+### University of Dayton (2019-2020)
+## CEE 421 Construction Engineering
 ## CEE 595 Introduction to Data Analytics for Engineering Systems
-* University of Dayton
-* Fall 2020
