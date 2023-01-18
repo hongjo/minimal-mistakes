@@ -7,7 +7,7 @@ toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
 ## Journal Papers
-Wei-Chih Chern, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim (2022). "Impact of Loss Functions on Semantic Segmentation in Far-field Monitoring" Computer-Aided Civil and Infrastructure Engineering (Accepted)
+Wei-Chih Chern, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim (2023). "Impact of Loss Functions on Semantic Segmentation in Far-field Monitoring" Computer-Aided Civil and Infrastructure Engineering, 38: 372– 390. https://doi.org/10.1111/mice.12832
 
 Yeji Hong, Somin Park, Hongjo Kim, and Hyoungkwan Kim (2021). "Synthetic data generation using building information models" Automation in Construction, 130, 1―16.
 
