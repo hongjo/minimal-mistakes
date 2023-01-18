@@ -11,18 +11,11 @@ toc_icon: "bookmark"
  * Research Professor
  * Department of Civil and Environmental Engineering, Yonsei University
  
+### Graduate Students
 **Wei Chih Chern**
- * Ph.D Course
+ * Ph.D. candidate
  * Department of Electrical and Computer Engineering, University of Dayton
  * Co-advisor: Dr. Vijayan K. Asari, Dr. Tam Nguyen
-
-**Jabbar Shah Syed**
- * Ph.D Course
- * Department of Civil and Environmental Engineering, Yonsei University
-
-**Sungjae Park**
- * Master Course
- * Department of Civil and Environmental Engineering, Yonsei University
 
 **Jeongho Hyeon**
  * Integrated Ph.D Course
@@ -33,17 +26,41 @@ toc_icon: "bookmark"
  * Department of Civil and Environmental Engineering, Yonsei University
 
 **Seokhwan Kim**
- * Undergraduate
+ * Integrated Ph.D Course
  * Department of Civil and Environmental Engineering, Yonsei University
 
-**Giwon Shin**
- * Undergraduate
+**Minkyu Koo**
+ * Master Course
  * Department of Civil and Environmental Engineering, Yonsei University
+
+
+### Undergraduate interns
+**Giwon Shin**
+ * Department of Civil and Environmental Engineering, Yonsei University
+
+**Jaehee Kim**
+ * Department of Civil and Environmental Engineering, Yonsei University
+
+**Minwoo Jeong**
+ * Department of Civil and Environmental Engineering, Yonsei University
+
+
+### Graduate School of Engineering
 
 **Jin Young Kim**
  * Master Course
  * Department of Civil, Environmental and Disaster Prevention Engineering, Yonsei University
 
+**Sungwook Yang**
+ * Master Course
+ * Department of Civil, Environmental and Disaster Prevention Engineering, Yonsei University
+
+
+## Alumni
+**Sungjae Park**
+ * Master in Science in the Department of Civil and Environmental Engineering, Yonsei University
+ * Thesis title: Effectiveness of Experiential Safety Training in Physical Facility Compared with VR-based Safety Training
+ * Current Position as of 23' Jan. 18th: Hanwha Corporation/E&C
 
 
 ## Collaborators
