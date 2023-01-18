@@ -58,8 +58,8 @@ toc_icon: "bookmark"
 
 ## Alumni
 **Sungjae Park**
- * Master in Science in the Department of Civil and Environmental Engineering, Yonsei University
- * Thesis title: Effectiveness of Experiential Safety Training in Physical Facility Compared with VR-based Safety Training
+ * Master of Science in the Department of Civil and Environmental Engineering, Yonsei University
+ * Thesis title: Effectiveness of Experiential Safety Training in Physical Facility Compared with VR-based Safety Training (2023)
  * Current Position as of 23' Jan. 18th: Hanwha Corporation/E&C
 
 
