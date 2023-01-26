@@ -64,7 +64,11 @@ Hongjo Kim, Changyoon Kim, Hoyoung Jeong, Sooji Ha, Kinam Kim, and Hyoungkwan Ki
 
 
 ## Conference Papers (International)
-1.  Sungjae Park, Namgyun Kim, Changbum R. Ahn, and Hongjo Kim (2022). "Effectiveness of Experiential Safety Training in Physical Facility Compared
+1.  Taegeon Kim, Giwon Shin, Seokhwan Kim and Hongjo Kim (2022) "GENERATING PSEUDO LABEL OF OBJECT DETECTOR FOR CONSTRUCTION SITE MONITORING" The International Conference on Computing in Civil and Building Engineering (ICCCBE) Oct. 26-28, 2022, Cape Town, Republic of South Africa
+2.  Jeongho Hyeon, Giwon Shin, Taegeon Kim, Byungil Kim, and Hongjo Kim (2022) "Challenges of Road Crack Segmentation due to Coarse Annotation" The International Conference on Computing in Civil and Building Engineering (ICCCBE) Oct. 26-28, 2022, Cape Town, Republic of South Africa
+3.  Wei-Chih Chern, Jeongho Hyeon, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim (2022) "Context-Aware PPE Compliance Check in Far-Field Monitoring" The International Conference on Computing in Civil and Building Engineering (ICCCBE) Oct. 26-28, 2022, Cape Town, Republic of South Africa
+4.  Seokhwan Kim, Taegeon Kim, Jeongho Hyeon, Jonghwa Won, and Hongjo Kim (2022) "Comparing Object Detection Models for Water Trash Monitoring" The International Conference on Computing in Civil and Building Engineering (ICCCBE) Oct. 26-28, 2022, Cape Town, Republic of South Africa
+5.  Sungjae Park, Namgyun Kim, Changbum R. Ahn, and Hongjo Kim (2022). "Effectiveness of Experiential Safety Training in Physical Facility Compared
 with VR-based Safety Training" the 22nd International Conference on Construction Applications of Virtual Reality (CONVR2022), Seoul, South Korea, 212-220.
 2.  Wei-Chih Chern, Vijayan Asari, Tam Nguyen, and Hongjo Kim (2022). "Weakly supervised pseudo label generation for construction vehicle segmentation" 39𝑡ℎ International Symposium on Automation and Robotics in Construction (ISARC 2022) July 13th – 15th, Bogotá, Colombia, 41-46. **(Selected for Plenary Talks)**
 3.  Wei-Chih Chern, Hongjo Kim, Vijayan Asari, and Tam Nguyen (2022). "Compound Loss Function of semantic segmentation models for imbalanced construction data" The 9th International Conference on Construction Engineering and Project Management (ICCEPM) Jun. 20-23, 2022, Las Vegas, NV, USA, 808-813.
