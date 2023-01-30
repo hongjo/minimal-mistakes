@@ -95,18 +95,25 @@ with VR-based Safety Training" the 22nd International Conference on Construction
 22.	Changyoon Kim, Hyun Su Lim, Hongjo Kim, and Hyoungkwan Kim (2013). "BIM-based Mobile System for Facility Management" The 30th International Symposium on Automation and Robotics in Construction (ISARC 2013), Montreal, Canada.
 
 ## Conference Papers (South Korea)
-1.	Yeji Hong, Wei Chih Chern, Tam Van Nguyen, Hongjo Kim (2021) "Domain adaptive semantic segmentation for safety management of construction site workers" Korean Society of Civil Engineers Conference, 27-28. 
-2.	Hongjo Kim, Seongdeok Bang, Hoyoung Jeong, Hyoungkwan Kim (2017). "Vision-based Monitoring and Construction Process Simulation for Productivity Analysis of an Earthmoving Process in a Tunnel" 2017 Korea Institute of Construction Engineering and Management Conference, 47―48.
-3.	Seongdeok Bang, Hongjo Kim, Hyoungkwan Kim (2016). "Image Stitching for Generating a Local Map of Construction Site using UAV Videos" 2016 Korea Institute of Construction Engineering and Management Conference, 187―188.
-4.	Hongjo Kim, Hyoungkwan Kim (2016). "Training Classifiers for Detecting Construction Entities in Images using the Geometric Information of 3D Models" 2016 Korea Institute of Construction Engineering and Management Conference, 205―206.
-5.	Kyeongseok Kim, Hongjo Kim, Hoyoung Jeong, Hyoungkwan Kim (2016). "Real Option Analysis of Flood Control Infrastructure under Climate Change" 2016 Korean Society of Civil Engineers Conference, 9―10.
-6.	Hongjo Kim, Kinam Kim, Seongdeok Bang, Hyoungkwan Kim (2016). "3D Reconstruction of Construction Entities from Images using Multi-View Stereo" 2016 Korean Society of Civil Engineers Conference, 25―26.
-7.	Sooji Ha, Hongjo Kim, Hyoungkwan Kim (2015). "Web-based Economic Assessment System for Adaptation of Infrastructure to Climate Change" 2015 Korean Society of Civil Engineers Conference, 21―22.
-8.	Sungjae Park, Hongjo Kim, Hyoungkwan Kim (2015). "Construction Material Identification in UAV (Unmanned Aerial Vehicle) images" 2015 Korean Society of Civil Engineers Conference, 33―34.
-9.	Hongjo Kim, Sooji Ha, Hyoungkwan Kim (2015). "Region Classification in Construction Site Images using Extreme Learning Machine (ELM)" 2015 Korean Society of Civil Engineers Conference, 29―30.
-10.	Hongjo Kim, Hoyoung Jeong, Kinam Kim, Sungjae Park, Changyoon Kim, Hyoungkwan Kim (2014). " A Fuzzy Inference- and Computer Vision-based Safety Assessment System for Construction Site Entities" 2014 Korea Institute of Construction Engineering and Management Conference, 99―100.
-11.	Hongjo Kim, Kinam Kim, Sungjae Park, Hoyoung Jeong, Hyoungkwan Kim (2014). "Applicability of the Kalman Filter for Multi-Object Tracking in Construction Sites" 2014 Korean Society of Civil Engineers Conference, 555―556.
-12.	Changyoon Kim, Hongjo Kim, Sungmo Ahn, Hyoungkwan Kim (2013). "BIM-based Construction Site Layout Planning for Caisson Structure Fabrication using Process Simulation" 2013 Korea Institute of Construction Engineering and Management Conference, 193―194.
+1.	Miyoung Uhm, Hyoungkwan Kim, and Hongjo Kim (2022) "Approaches for Cost Optimization in Preventive Infrastructure Maintenance Management" 2022 Korea Institute of Construction Engineering and Management Conference
+2.	Miyoung Uhm and Hongjo Kim (2022) "A Research Trends in BIM based Blockchain" 2022 Korea Institute of Construction Engineering and Management Conference
+3.	Jeongho Hyeon, Giwon Shin, Taegeon Kim, Byungil Kim, and Hongjo Kim (2022) "Challenges in Road Crack Segmentation Due to Coarse Annotation" 2022 Korea Institute of Construction Engineering and Management Conference
+4.	Miyoung Uhm and Hongjo Kim (2022) "Research Trends in Priority Decision Making Model for Urban Infrastructure Integrated Maintenance" 2022 Korean Society of Civil Engineers Conference
+5.	Jeongho Hyeon, Taegeon Kim, Byungil Kim, and Hongjo Kim (2022) "Performance Comparison of Road Crack Segmentation in Dash-board Camera Image" 2022 Korean Society of Civil Engineers Conference
+6.	Sungjae Park, Namgyun Kim, Changbum R. Ahn, and Hongjo Kim (2022) "Effectiveness of Experiential Safety Training in Safety Training Center Compared to VR-based Safety Training" 2022 Korean Society of Civil Engineers Conference
+7.	Wei-Chih Chern, Jeongho Hyeon, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim (2022) "Context-Aware PPE Compliance Check in Far-Field Monitoring" 2022 Korean Society of Civil Engineers Conference
+8.	Yeji Hong, Wei Chih Chern, Tam Van Nguyen, and Hongjo Kim (2021) "Domain adaptive semantic segmentation for safety management of construction site workers" Korean Society of Civil Engineers Conference, 27-28. 
+9.	Hongjo Kim, Seongdeok Bang, Hoyoung Jeong, and Hyoungkwan Kim (2017) "Vision-based Monitoring and Construction Process Simulation for Productivity Analysis of an Earthmoving Process in a Tunnel" 2017 Korea Institute of Construction Engineering and Management Conference, 47―48.
+10.	Seongdeok Bang, Hongjo Kim, and Hyoungkwan Kim (2016) "Image Stitching for Generating a Local Map of Construction Site using UAV Videos" 2016 Korea Institute of Construction Engineering and Management Conference, 187―188.
+11.	Hongjo Kim and Hyoungkwan Kim (2016) "Training Classifiers for Detecting Construction Entities in Images using the Geometric Information of 3D Models" 2016 Korea Institute of Construction Engineering and Management Conference, 205―206.
+12.	Kyeongseok Kim, Hongjo Kim, Hoyoung Jeong, and Hyoungkwan Kim (2016) "Real Option Analysis of Flood Control Infrastructure under Climate Change" 2016 Korean Society of Civil Engineers Conference, 9―10.
+13.	Hongjo Kim, Kinam Kim, Seongdeok Bang, and Hyoungkwan Kim (2016) "3D Reconstruction of Construction Entities from Images using Multi-View Stereo" 2016 Korean Society of Civil Engineers Conference, 25―26.
+14.	Sooji Ha, Hongjo Kim, and Hyoungkwan Kim (2015) "Web-based Economic Assessment System for Adaptation of Infrastructure to Climate Change" 2015 Korean Society of Civil Engineers Conference, 21―22.
+15.	Sungjae Park, Hongjo Kim, and Hyoungkwan Kim (2015) "Construction Material Identification in UAV (Unmanned Aerial Vehicle) images" 2015 Korean Society of Civil Engineers Conference, 33―34.
+16.	Hongjo Kim, Sooji Ha, and Hyoungkwan Kim (2015) "Region Classification in Construction Site Images using Extreme Learning Machine (ELM)" 2015 Korean Society of Civil Engineers Conference, 29―30.
+17.	Hongjo Kim, Hoyoung Jeong, Kinam Kim, Sungjae Park, Changyoon Kim, and Hyoungkwan Kim (2014) " A Fuzzy Inference- and Computer Vision-based Safety Assessment System for Construction Site Entities" 2014 Korea Institute of Construction Engineering and Management Conference, 99―100.
+18.	Hongjo Kim, Kinam Kim, Sungjae Park, Hoyoung Jeong, and Hyoungkwan Kim (2014) "Applicability of the Kalman Filter for Multi-Object Tracking in Construction Sites" 2014 Korean Society of Civil Engineers Conference, 555―556.
+19.	Changyoon Kim, Hongjo Kim, Sungmo Ahn, and Hyoungkwan Kim (2013) "BIM-based Construction Site Layout Planning for Caisson Structure Fabrication using Process Simulation" 2013 Korea Institute of Construction Engineering and Management Conference, 193―194.
 
 ## Patents
 1.	Hyoungkwan Kim and Hongjo Kim (2019). “Situational Recognition System for Construction Site based Vision and Method, and Method for Productivity Analysis of Earthwork using It” Patent Registration No.10-2042629. (in Korea)
