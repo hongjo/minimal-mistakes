@@ -9,7 +9,7 @@ toc_icon: "bookmark"
 ## Journal Papers
 Wei-Chih Chern, Jeongho Hyeon, Tam V. Nguyen, Vijayan K. Asari, Hongjo Kim (2023) "Context-aware Safety Assessment System for Far-field Monitoring" Automation in Construction, 149, 104779. https://doi.org/10.1016/j.autcon.2023.104779.
 
-Yeji Hong, Wei-Chih Chern, Tam V. Nguyen, Hubo Cai, and Hongjo Kim (2023). "Semi-supervised Domain Adaptation for Segmentation Models on Different Monitoring Settings" Automation in Constructoin, 149, 104773. https://doi.org/10.1016/j.autcon.2023.104773
+Yeji Hong, Wei-Chih Chern, Tam V. Nguyen, Hubo Cai, and Hongjo Kim (2023). "Semi-supervised Domain Adaptation for Segmentation Models on Different Monitoring Settings" Automation in Construction, 149, 104773. https://doi.org/10.1016/j.autcon.2023.104773
 
 Wei-Chih Chern, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim (2023). "Impact of Loss Functions on Semantic Segmentation in Far-field Monitoring" Computer-Aided Civil and Infrastructure Engineering, 38(3), 372– 390. https://doi.org/10.1111/mice.12832
 
