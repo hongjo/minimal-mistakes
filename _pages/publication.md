@@ -67,7 +67,7 @@ Byungil Kim, Hongjo Kim, and Hyoungkwan Kim (2016). "A Framework for Pricing the
 Hongjo Kim, Changyoon Kim, Hoyoung Jeong, Sooji Ha, Kinam Kim, and Hyoungkwan Kim (2015). "4D CAD Drawings based on Marker-based Augmented Reality" Korean Journal of Construction Engineering and Management, 16(4), 30–40.
 
 
-## Conference Papers (International)
+## International Conference Papers
 1.  Taegeon Kim, Giwon Shin, Seokhwan Kim and Hongjo Kim (2022) "GENERATING PSEUDO LABEL OF OBJECT DETECTOR FOR CONSTRUCTION SITE MONITORING" The International Conference on Computing in Civil and Building Engineering (ICCCBE) Oct. 26-28, 2022, Cape Town, Republic of South Africa
 2.  Jeongho Hyeon, Giwon Shin, Taegeon Kim, Byungil Kim, and Hongjo Kim (2022) "Challenges of Road Crack Segmentation due to Coarse Annotation" The International Conference on Computing in Civil and Building Engineering (ICCCBE) Oct. 26-28, 2022, Cape Town, Republic of South Africa
 3.  Wei-Chih Chern, Jeongho Hyeon, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim (2022) "Context-Aware PPE Compliance Check in Far-Field Monitoring" The International Conference on Computing in Civil and Building Engineering (ICCCBE) Oct. 26-28, 2022, Cape Town, Republic of South Africa
@@ -96,7 +96,7 @@ with VR-based Safety Training" the 22nd International Conference on Construction
 21.	Hoyoung Jeong, Hyounkyu Lee, Hongjo Kim, and Hyoungkwan Kim (2014). "Algorithm for economic assessment of infrastructure adaptation to climate change" The 31st International Symposium on Automation and Robotics in Construction (ISARC 2014), Sydney, Australia, 942–947.
 22.	Changyoon Kim, Hyun Su Lim, Hongjo Kim, and Hyoungkwan Kim (2013). "BIM-based Mobile System for Facility Management" The 30th International Symposium on Automation and Robotics in Construction (ISARC 2013), Montreal, Canada.
 
-## Conference Papers (South Korea)
+## Domestic Conference Papers
 1.	Miyoung Uhm, Hyoungkwan Kim, and Hongjo Kim (2022) "Approaches for Cost Optimization in Preventive Infrastructure Maintenance Management" 2022 Korea Institute of Construction Engineering and Management Conference
 2.	Miyoung Uhm and Hongjo Kim (2022) "A Research Trends in BIM based Blockchain" 2022 Korea Institute of Construction Engineering and Management Conference
 3.	Jeongho Hyeon, Giwon Shin, Taegeon Kim, Byungil Kim, and Hongjo Kim (2022) "Challenges in Road Crack Segmentation Due to Coarse Annotation" 2022 Korea Institute of Construction Engineering and Management Conference
