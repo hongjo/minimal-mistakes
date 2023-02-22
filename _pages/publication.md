@@ -9,11 +9,11 @@ toc_icon: "bookmark"
 ## Journal Papers
 Wei-Chih Chern, Jeongho Hyeon, Tam V. Nguyen, Vijayan K. Asari, Hongjo Kim (2023) "Context-aware Safety Assessment System for Far-field Monitoring" Automation in Construction, 149, 104779. https://doi.org/10.1016/j.autcon.2023.104779.
 
-Yeji Hong, Wei-Chih Chern, Tam V. Nguyen, Hubo Cai, and Hongjo Kim (2023). "Semi-supervised Domain Adaptation for Segmentation Models on Different Monitoring Settings" Automation in Constructoin (Accepted)
+Yeji Hong, Wei-Chih Chern, Tam V. Nguyen, Hubo Cai, and Hongjo Kim (2023). "Semi-supervised Domain Adaptation for Segmentation Models on Different Monitoring Settings" Automation in Constructoin, 149, 104773. https://doi.org/10.1016/j.autcon.2023.104773
 
 Wei-Chih Chern, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim (2023). "Impact of Loss Functions on Semantic Segmentation in Far-field Monitoring" Computer-Aided Civil and Infrastructure Engineering, 38: 372– 390. https://doi.org/10.1111/mice.12832
 
-Yeji Hong, Somin Park, Hongjo Kim, and Hyoungkwan Kim (2021). "Synthetic data generation using building information models" Automation in Construction, 130, 1―16.
+Yeji Hong, Somin Park, Hongjo Kim, and Hyoungkwan Kim (2021). "Synthetic data generation using building information models" Automation in Construction, 130, 1―16. https://doi.org/10.1016/j.autcon.2021.103871
 
 ![](/assets/images/reliability.jpg)
 Hongjo Kim and Youngjib Ham (2021). “Increasing Reliability of Participatory Sensing for Utility Pole Condition Assessment using Fuzzy Inference” Journal of Construction Engineering and Management, 147(1), 04020154.
