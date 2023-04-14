@@ -7,9 +7,9 @@ toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
 ## Journal Papers
-Wei-Chih Chern, Taegeon Kim, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim (2023) "Self-Supervised Sub-category Exploration for Pseudo Label Generation" Automation in Construction (Accepted)
+Wei-Chih Chern, Taegeon Kim, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim (2023) "Self-Supervised Sub-category Exploration for Pseudo Label Generation" Automation in Construction, 151, 104862. https://doi.org/10.1016/j.autcon.2023.104862
 
-Wei-Chih Chern, Jeongho Hyeon, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim (2023) "Context-aware Safety Assessment System for Far-field Monitoring" Automation in Construction, 149, 104779. https://doi.org/10.1016/j.autcon.2023.104779.
+Wei-Chih Chern, Jeongho Hyeon, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim (2023) "Context-aware Safety Assessment System for Far-field Monitoring" Automation in Construction, 149, 104779. https://doi.org/10.1016/j.autcon.2023.104779
 
 Yeji Hong, Wei-Chih Chern, Tam V. Nguyen, Hubo Cai, and Hongjo Kim (2023). "Semi-supervised Domain Adaptation for Segmentation Models on Different Monitoring Settings" Automation in Construction, 149, 104773. https://doi.org/10.1016/j.autcon.2023.104773
 
