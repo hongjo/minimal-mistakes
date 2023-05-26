@@ -34,7 +34,7 @@ toc_icon: "bookmark"
  * Department of Civil and Environmental Engineering, Yonsei University
 
 
-### Undergraduate interns
+### Undergraduate Interns
 **Giwon Shin**
  * Department of Civil and Environmental Engineering, Yonsei University
 
@@ -45,8 +45,7 @@ toc_icon: "bookmark"
  * Department of Civil and Environmental Engineering, Yonsei University
 
 
-### Graduate School of Engineering
-
+### Part-time Graduate Students
 **Jin Young Kim**
  * Master Course
  * Department of Civil, Environmental and Disaster Prevention Engineering, Yonsei University
@@ -56,18 +55,8 @@ toc_icon: "bookmark"
  * Department of Civil, Environmental and Disaster Prevention Engineering, Yonsei University
 
 
-## Alumni
+### Alumni
 **Sungjae Park**
  * Master of Science in the Department of Civil and Environmental Engineering, Yonsei University
  * Thesis title: Effectiveness of Experiential Safety Training in Physical Facility Compared with VR-based Safety Training (2023)
  * Current Position as of 23' Jan. 18th: Hanwha Corporation/E&C
-
-
-## Collaborators
-**Dr. Tam Nguyen**
- * Assistant Professor
- * Department of Computer Science, University of Dayton
-
-**Dr. Vijayan K. Asari**
- * Professor; Ohio Research Scholars Endowed Chair in Wide Area Surveillance
- * Department of Electrical and Computer Engineering, University of Dayton
