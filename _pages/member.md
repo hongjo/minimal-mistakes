@@ -34,6 +34,7 @@ toc_icon: "bookmark"
  * Department of Civil and Environmental Engineering, Yonsei University
 
 **Minwoo Jeong**
+ * Integrated Ph.D Course
  * Department of Civil and Environmental Engineering, Yonsei University
 
 
