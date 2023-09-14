@@ -33,16 +33,11 @@ toc_icon: "bookmark"
  * Master Course
  * Department of Civil and Environmental Engineering, Yonsei University
 
-
-### Undergraduate Interns
-**Giwon Shin**
- * Department of Civil and Environmental Engineering, Yonsei University
-
-**Jaehee Kim**
- * Department of Civil and Environmental Engineering, Yonsei University
-
 **Minwoo Jeong**
  * Department of Civil and Environmental Engineering, Yonsei University
+
+
+### Undergraduate Interns
 
 
 ### Part-time Graduate Students
