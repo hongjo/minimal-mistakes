@@ -7,13 +7,15 @@ toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
 ## Journal Papers
-Wei-Chih Chern, Taegeon Kim, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim (2023) "Self-Supervised Sub-category Exploration for Pseudo Label Generation" Automation in Construction, 151, 104862. https://doi.org/10.1016/j.autcon.2023.104862
+Miyoung Uhm, Giwon Shin, Hyoungkwan Kim, H. David Jeong, and Hongjo Kim* (2024) "Exploring the Long-Term Impact of Preventive Road Treatments on Municipal Highways" Journal of Management in Engineering (Accepted)
 
-Wei-Chih Chern, Jeongho Hyeon, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim (2023) "Context-aware Safety Assessment System for Far-field Monitoring" Automation in Construction, 149, 104779. https://doi.org/10.1016/j.autcon.2023.104779
+Wei-Chih Chern, Taegeon Kim, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim* (2023) "Self-Supervised Sub-category Exploration for Pseudo Label Generation" Automation in Construction, 151, 104862. https://doi.org/10.1016/j.autcon.2023.104862
 
-Yeji Hong, Wei-Chih Chern, Tam V. Nguyen, Hubo Cai, and Hongjo Kim (2023). "Semi-supervised Domain Adaptation for Segmentation Models on Different Monitoring Settings" Automation in Construction, 149, 104773. https://doi.org/10.1016/j.autcon.2023.104773
+Wei-Chih Chern, Jeongho Hyeon, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim* (2023) "Context-aware Safety Assessment System for Far-field Monitoring" Automation in Construction, 149, 104779. https://doi.org/10.1016/j.autcon.2023.104779
 
-Wei-Chih Chern, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim (2023). "Impact of Loss Functions on Semantic Segmentation in Far-field Monitoring" Computer-Aided Civil and Infrastructure Engineering, 38(3), 372– 390. https://doi.org/10.1111/mice.12832
+Yeji Hong, Wei-Chih Chern, Tam V. Nguyen, Hubo Cai, and Hongjo Kim* (2023). "Semi-supervised Domain Adaptation for Segmentation Models on Different Monitoring Settings" Automation in Construction, 149, 104773. https://doi.org/10.1016/j.autcon.2023.104773
+
+Wei-Chih Chern, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim* (2023). "Impact of Loss Functions on Semantic Segmentation in Far-field Monitoring" Computer-Aided Civil and Infrastructure Engineering, 38(3), 372– 390. https://doi.org/10.1111/mice.12832
 
 Yeji Hong, Somin Park, Hongjo Kim, and Hyoungkwan Kim (2021). "Synthetic data generation using building information models" Automation in Construction, 130, 103871. https://doi.org/10.1016/j.autcon.2021.103871
 
