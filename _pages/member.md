@@ -49,7 +49,7 @@ toc_icon: "bookmark"
  * Master Course
  * Department of Civil and Environmental Engineering, Yonsei University
 
-**SHAFAAT TAHIR**
+**Shafaat Tahir**
  * Master Course
  * Department of Civil and Environmental Engineering, Yonsei University
 
