@@ -9,7 +9,8 @@ toc_icon: "bookmark"
 ## Journal Papers
 Seokhwan Kim, Taegeon Kim, and Hongjo Kim* (2024) "Monte Carlo Simulation-Based Cost Estimation for Floating Trash Barrier Maintenance" KSCE Journal of Civil and Environmental Engineering Research, 44(2), 231-235. https://doi.org/10.12652/Ksce.2024.44.2.0231
 
-Miyoung Uhm, Giwon Shin, Hyoungkwan Kim, H. David Jeong, and Hongjo Kim* (2024) "Exploring the Long-Term Impact of Preventive Road Treatments on Municipal Highways" Journal of Management in Engineering (Accepted)
+Miyoung Uhm, Giwon Shin, Hyoungkwan Kim, H. David Jeong, and Hongjo Kim* (2024) "Exploring the Long-Term Impact of Preventive Road Treatments on Municipal Highways" Journal of Management in Engineering, 40(4), 04024025.
+https://doi.org/10.1061/JMENEA.MEENG-5885
 
 Wei-Chih Chern, Taegeon Kim, Tam V. Nguyen, Vijayan K. Asari, and Hongjo Kim* (2023) "Self-Supervised Sub-category Exploration for Pseudo Label Generation" Automation in Construction, 151, 104862. https://doi.org/10.1016/j.autcon.2023.104862
 
