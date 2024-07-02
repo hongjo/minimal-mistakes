@@ -7,7 +7,7 @@ toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
 ## Journal Papers
-Uhm, Miyoung, Kim, Jinyoung. and Kim, Hongjo*. (2024) “Impact of Construction Safety Managers and Project Characteristics on Air Conditioning Installation Safety Scores,” Journal of the Korea Institute of Building Construction. 한국건축시공학회, 24(3), pp. 381–391. https://doi.org/10.5345/JKIBC.2024.24.3.381.
+Uhm, Miyoung, Kim, Jinyoung. and Kim, Hongjo*. (2024) “Impact of Construction Safety Managers and Project Characteristics on Air Conditioning Installation Safety Scores,” Journal of the Korea Institute of Building Construction, 24(3), pp. 381–391. https://doi.org/10.5345/JKIBC.2024.24.3.381.
 
 Seokhwan Kim, Taegeon Kim, and Hongjo Kim* (2024) "Monte Carlo Simulation-Based Cost Estimation for Floating Trash Barrier Maintenance" KSCE Journal of Civil and Environmental Engineering Research, 44(2), 231-235. https://doi.org/10.12652/Ksce.2024.44.2.0231
 
