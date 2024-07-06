@@ -8,7 +8,7 @@ toc_icon: "bookmark"
 ---
 ## Journal Papers
 
-Wei-Chih Chern, Taegeon Kim, Vijayan K. Asari, and Hongjo Kim* (2024) "Image Hashing-based Shallow Object Tracker for Construction Worker Monitoring in Scaffolding Scenes" Automation in Construction (Accepted)
+Wei-Chih Chern, Taegeon Kim, Vijayan K. Asari, and Hongjo Kim* (2024) "Image Hashing-based Shallow Object Tracker for Construction Worker Monitoring in Scaffolding Scenes" Automation in Construction, 166, 105604. https://doi.org/10.1016/j.autcon.2024.105604
 
 Miyoung Uhm, Jinyoung Kim, and Hongjo Kim* (2024) “Impact of Construction Safety Managers and Project Characteristics on Air Conditioning Installation Safety Scores,” Journal of the Korea Institute of Building Construction, 24(3), pp. 381–391. https://doi.org/10.5345/JKIBC.2024.24.3.381.
 
