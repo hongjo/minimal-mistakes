@@ -10,7 +10,7 @@ toc_icon: "bookmark"
 ![](/assets/images/ri.jpg)
 
 ## Current Research Project
-**Autonomous Evolutionary AI-Based Smart Sensing Platform for Early Detection and Proactive Response to Levee Failures (자율 진화형 인공지능 기반 제방 붕괴 조기 감지 및 선제적 대응 스마트 센싱 플랫폼 개발)**
+**Autonomous Evolutionary AI-Based Smart Sensing Platform for Early Detection and Proactive Response to Levee Failures (2024 STEAM 연구사업(미래유망파이오니어(전략형)) - 자율 진화형 인공지능 기반 제방 붕괴 조기 감지 및 선제적 대응 스마트 센싱 플랫폼 개발)**
 * Agency: National Research Foundation of Korea (한국연구재단)
 * Role: Principal Investigator (연구책임자)
 * Period: 2024-2028
