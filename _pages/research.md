@@ -12,12 +12,12 @@ toc_icon: "bookmark"
 ## Current Research Project
 **Autonomous Evolutionary AI-Based Smart Sensing Platform for Early Detection and Proactive Response to Levee Failures (2024 STEAM 연구사업(미래유망파이오니어(전략형)) - 자율 진화형 인공지능 기반 제방 붕괴 조기 감지 및 선제적 대응 스마트 센싱 플랫폼 개발)**
 * Agency: National Research Foundation of Korea (한국연구재단)
-* Role: Principal Investigator (연구책임자)
+* Role: Principal Investigator
 * Period: 2024-2028
 
 **Vision-based Safety Securing Technology for Temporary Structure Installation and Dismantlement (스마트건설기술개발사업 9세부: 영상 기반 임시 구조물 설치 해체 단계 안전 확보 기술**
 * Agency: The Korea Agency for Infrastructure Technology and Advancement (국토교통과학기술진흥원)
-* Role: Co-Principal Investigator (공동연구자)
+* Role: Co-Principal Investigator
 * Period: 2020-2025
 
 
