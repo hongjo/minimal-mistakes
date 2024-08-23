@@ -41,6 +41,10 @@ toc_icon: "bookmark"
  * Integrated Ph.D Course
  * Department of Civil and Environmental Engineering, Yonsei University
 
+**Younga Shin**
+ * Integrated Ph.D Course
+ * Department of Civil and Environmental Engineering, Yonsei University
+
 **Jaehyun Park**
  * Master Course
  * Department of Civil and Environmental Engineering, Yonsei University
@@ -49,9 +53,6 @@ toc_icon: "bookmark"
  * Master Course
  * Department of Civil and Environmental Engineering, Yonsei University
 
-**Shafaat Tahir**
- * Master Course
- * Department of Civil and Environmental Engineering, Yonsei University
 
 ### Undergraduate Interns
 A few undergratuate intern positions are available during summer and winter vacations.
@@ -73,3 +74,7 @@ A few undergratuate intern positions are available during summer and winter vaca
 * 학위논문: 기계가스설비공사(시스템에어컨) 안전에 영향을 미치는 주요 변수의 통계적 분석 (2024)
 * Thesis Title: Statistical analysis of the key variables affecting the safety of mechanical gas facility construction (system air conditioning) (2024)
 * Current Position as of 2024 Mar. 5th: LG Electronics
+
+**Shafaat Tahir**
+ * Master of Civil, Environmental and Disaster Prevention Engineering, Yonsei University
+ * Thesis Title: Automated Detection of Concrete Quality in 3D Construction Printing Using Machine Learning (2024)
