@@ -7,14 +7,17 @@ toc_label: " Table of Contents"
 toc_icon: "bookmark"
 ---
 ## Current Members
-**Dr. Miyoung Uhm**
- * Research Professor
- * Department of Civil and Environmental Engineering, Yonsei University
+
  
 ### Graduate Students
+**Seungwon Baek**
+ * Ph.D., Research Professor
+ * Department of Civil and Environmental Engineering, Yonsei University
+ * Co-advisor: Dr. Seoung Heon Han
+
 **Wei Chih Chern**
  * Ph.D. candidate
- * Department of Electrical and Computer Engineering, University of Dayton
+ * Department of Electrical and Computer Engineering, University of Dayton, United States
  * Co-advisor: Dr. Vijayan K. Asari, Dr. Tam Nguyen
 
 **Jeongho Hyeon**
@@ -62,8 +65,17 @@ A few undergratuate intern positions are available during summer and winter vaca
  * Master Course
  * Department of Civil, Environmental and Disaster Prevention Engineering, Yonsei University
 
+### Current & Former Visiting Students
+**Jan-Iwo Jäkel**
+* Ph.D. Candidate, Institute for Construction Management, Digital Engineering and Robotics in Construction, RWTH Aachen University
+* Co-Founder, Geschäftsführer
+
 
 ### Alumni
+**Yeji Hong**
+ * Master of Science in the Department of Civil and Environmental Engineering, Yonsei University
+ * Current Position as of 24' Jan. 18th: Graduate Research Assistant, Purdue University
+
 **Sungjae Park**
  * Master of Science in the Department of Civil and Environmental Engineering, Yonsei University
  * Thesis title: Effectiveness of Experiential Safety Training in Physical Facility Compared with VR-based Safety Training (2023)
@@ -77,4 +89,8 @@ A few undergratuate intern positions are available during summer and winter vaca
 
 **Shafaat Tahir**
  * Master of Civil, Environmental and Disaster Prevention Engineering, Yonsei University
+
+**Dr. Miyoung Uhm**
+ * Research Professor
+ * Current Position: Research Professor at the Department of Architectural Engineering, Yonsei University
  * Thesis Title: Automated Detection of Concrete Quality in 3D Construction Printing Using Machine Learning (2024)
