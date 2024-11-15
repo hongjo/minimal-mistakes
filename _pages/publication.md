@@ -8,7 +8,7 @@ toc_icon: "bookmark"
 ---
 ## Journal Papers
 
-Namgyun Kim, Sungjae Park, Miyoung Uhm, Changbum R. Ahn, Hongjo Kim* (2024) "Enhancing Construction Managers’ Risk Perception and Lowering Risk Tolerance Toward Unsafe Behaviors Through Experiential Safety Training" Journal of Management in Engineering (Accepted)
+Namgyun Kim, Sungjae Park, Miyoung Uhm, Changbum R. Ahn, Hongjo Kim* (2025) "Enhancing Construction Managers’ Risk Perception and Lowering Risk Tolerance Toward Unsafe Behaviors Through Experiential Safety Training" Journal of Management in Engineering, 41(1), 04024067.
 
 Wei-Chih Chern, Taegeon Kim, Vijayan K. Asari, and Hongjo Kim* (2024) "Image Hashing-based Shallow Object Tracker for Construction Worker Monitoring in Scaffolding Scenes" Automation in Construction, 166, 105604. https://doi.org/10.1016/j.autcon.2024.105604
 
