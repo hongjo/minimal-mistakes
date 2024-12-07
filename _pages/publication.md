@@ -8,11 +8,13 @@ toc_icon: "bookmark"
 ---
 ## Journal Papers
 
+Miyoung Uhm, Jaehee Kim, Seungjun Ahn, Hoyoung Jeong, and Hongjo Kim* (2025) "Effectiveness of Retrieval Augmented Generation-based Large Language Models for Generating Construction Safety Information" Automation in Construction (Accepted)
+
 Namgyun Kim, Sungjae Park, Miyoung Uhm, Changbum R. Ahn, Hongjo Kim* (2025) "Enhancing Construction Managers’ Risk Perception and Lowering Risk Tolerance Toward Unsafe Behaviors Through Experiential Safety Training" Journal of Management in Engineering, 41(1), 04024067.
 
 Wei-Chih Chern, Taegeon Kim, Vijayan K. Asari, and Hongjo Kim* (2024) "Image Hashing-based Shallow Object Tracker for Construction Worker Monitoring in Scaffolding Scenes" Automation in Construction, 166, 105604. https://doi.org/10.1016/j.autcon.2024.105604
 
-Miyoung Uhm, Jinyoung Kim, and Hongjo Kim* (2024) “Impact of Construction Safety Managers and Project Characteristics on Air Conditioning Installation Safety Scores,” Journal of the Korea Institute of Building Construction, 24(3), pp. 381–391. https://doi.org/10.5345/JKIBC.2024.24.3.381.
+Miyoung Uhm, Jinyoung Kim, and Hongjo Kim* (2024) “Impact of Construction Safety Managers and Project Characteristics on Air Conditioning Installation Safety Scores” Journal of the Korea Institute of Building Construction, 24(3), pp. 381–391. https://doi.org/10.5345/JKIBC.2024.24.3.381.
 
 Seokhwan Kim, Taegeon Kim, and Hongjo Kim* (2024) "Monte Carlo Simulation-Based Cost Estimation for Floating Trash Barrier Maintenance" KSCE Journal of Civil and Environmental Engineering Research, 44(2), 231-235. https://doi.org/10.12652/Ksce.2024.44.2.0231
 
